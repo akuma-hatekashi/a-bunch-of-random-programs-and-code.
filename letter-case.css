@@ -1,0 +1,3 @@
+p.smallcaps {
+  font-variant: small-caps;
+}
